@@ -7,9 +7,9 @@ Enter side c: 3
 The perimeter of the triangle is 12
 */
 
-let a = 5
-let b = 4
-let c = 3
+let a = prompt("Enter side a value: ")
+let b = prompt("Enter side b value: ")
+let c = prompt("Enter side c value: ")
 let perimeter = (a+b+c)
 console.log(perimeter)
 
