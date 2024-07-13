@@ -33,7 +33,7 @@ let num2 = 3
 console.log(num1==num2)
 //output:- false
 
-let w1 = 'b'
-let w2 = 'A'
-console.log(w1==w2)
+let num1 = 6
+let num2 = 1
+console.log(num1<num2)
 //output:- false
