@@ -5,3 +5,10 @@ Enter base: 20
 Enter height: 10
 The area of the triangle is 100
 */
+
+let base = 20
+let height = 10
+let area = (0.5*base*height)
+console.log(area)
+
+//output:- 100
