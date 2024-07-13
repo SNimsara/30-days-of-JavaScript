@@ -6,8 +6,8 @@ Enter height: 10
 The area of the triangle is 100
 */
 
-let base = 20
-let height = 10
+let base = prompt("Enter side base of the triangle: ")
+let height = prompt("Enter side height of the triangle: ")
 let area = (0.5*base*height)
 console.log(area)
 
