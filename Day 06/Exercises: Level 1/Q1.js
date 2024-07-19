@@ -1,5 +1,12 @@
 //Iterate 0 to 10 using for loop, do the same using while and do while loop
 
+//for loop
+for (let i = 0; i < 11; i++) {
+    console.log(i)
+}
+// output:- 0 1 2 3 4 5 6 7 8 9 10
+
+
 //while loop
 let i = 0;
 while (i<11){
