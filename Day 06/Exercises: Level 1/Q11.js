@@ -14,5 +14,4 @@ for ( let i = 0 ; i <= 100 ; i++){
         sum2 += i
     }
 }
-console.log(`The sum of all evens from 0 to 100 is ${sum1}. And the sum of all odds from 0 to 100 is ${sum2}.
-`)
+console.log(`The sum of all evens from 0 to 100 is ${sum1}. And the sum of all odds from 0 to 100 is ${sum2}.`)
